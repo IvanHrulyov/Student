@@ -1,10 +1,10 @@
-package members;
+package lesson1.members;
 
-public class Person implements Member {
+public class Robot implements Member {
     private int maxDistance;
     private int maxHeight;
 
-    public Person(int maxDistance, int maxHeight) {
+    public Robot(int maxDistance, int maxHeight) {
         this.maxDistance = maxDistance;
         this.maxHeight = maxHeight;
     }

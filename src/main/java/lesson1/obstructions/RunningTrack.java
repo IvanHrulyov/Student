@@ -1,6 +1,6 @@
-package obstructions;
+package lesson1.obstructions;
 
-import members.Member;
+import lesson1.members.Member;
 
 public class RunningTrack implements Obstruction {
     private int distance;

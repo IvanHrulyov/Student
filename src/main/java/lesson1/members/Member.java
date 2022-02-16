@@ -1,4 +1,4 @@
-package members;
+package lesson1.members;
 
 public interface Member {
     void run();

@@ -1,10 +1,12 @@
-import members.Cat;
-import members.Member;
-import members.Person;
-import members.Robot;
-import obstructions.Obstruction;
-import obstructions.RunningTrack;
-import obstructions.Wall;
+package lesson1;
+
+import lesson1.members.Cat;
+import lesson1.members.Member;
+import lesson1.members.Person;
+import lesson1.members.Robot;
+import lesson1.obstructions.Obstruction;
+import lesson1.obstructions.RunningTrack;
+import lesson1.obstructions.Wall;
 
 public class Lesson1 {
     public static void main(String[] args) {
