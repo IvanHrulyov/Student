@@ -1,6 +1,6 @@
-package obstructions;
+package lesson1.obstructions;
 
-import members.Member;
+import lesson1.members.Member;
 
 public class Wall implements Obstruction {
     private int height;
